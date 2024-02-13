@@ -1,4 +1,4 @@
-<img align="" src="github-header-image.png" alt="Coder GIF" width="420" height="330">
+<img align="center" src="github-header-image.png" alt="Coder GIF" width="420" height="330">
 <img align="right" src="developer.gif" alt="Coder GIF" width="420" height="330">
 
 
