@@ -3,7 +3,7 @@
 
 
 ### Hi there, I am Sahil Shah 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Sahil-Shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-shah-50344224a/)](https://www.linkedin.com/in/sahil-shah-50344224a/)
+[![Linkedin Badge](https://img.shields.io/badge/-SahilShah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-shah-50344224a/)](https://www.linkedin.com/in/sahil-shah-50344224a/)
 [![Gmail Badge](https://img.shields.io/badge/-plugsahuz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:plugsahuz@gmail.com)](mailto:plugsahuz@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](--------)
