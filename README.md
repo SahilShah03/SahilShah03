@@ -12,8 +12,9 @@
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Java ✍️
-- Full Stack Development (Front-end and Backend Development) 🧐
+- Full Stack Development 🧐
 - Machine Learning 😬
+- MERN
 
     
 🛠**Tech Stack**
