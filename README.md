@@ -13,6 +13,7 @@
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Java ✍️
+- javascript
 - Full Stack Development 🧐
 - Machine Learning 😬
 - MERN
