@@ -1,19 +1,19 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="developer.gif" alt="Coder GIF" width="420" height="330">
 
 
 
 ### Hi there, I am Sahil Shah 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/sahil-shah-50344224a/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:plugsahuz@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Sahil-Shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-shah-50344224a/)](https://www.linkedin.com/in/sahil-shah-50344224a/)
+[![Gmail Badge](https://img.shields.io/badge/-plugsahuz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:plugsahuz@gmail.com)](mailto:plugsahuz@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](--------)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
-- Machine Learning 🧐
-- Data Science 😬
+- Java ✍️
+- Full Stack Development 🧐
+- Backend Development 😬
 
     
 🛠**Tech Stack**
@@ -35,8 +35,4 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-
-<div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
 
