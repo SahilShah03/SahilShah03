@@ -9,10 +9,11 @@
 
 - 🎯 Portfolio website: [Portfolio](--------)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+- I'm a Tech Worker👨‍💻
 
 💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Java ✍️
+- python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - javascript
 - Full Stack Development 🧐
 - Machine Learning 😬
