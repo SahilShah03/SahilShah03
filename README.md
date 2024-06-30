@@ -1,5 +1,4 @@
-![github-header-image (3)](https://github.com/SahilShah03/SahilShah03/assets/159931940/3ebec27c-68f3-4150-af0c-b13dc248e4e9)
-<img align="right" src="developer.gif" alt="Coder GIF" width="420" height="330">
+
 
 
 
