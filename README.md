@@ -1,38 +1,22 @@
-
-
-
-
 ### Hi there, I am Sahil Shah 👋
-[![Linkedin Badge](https://img.shields.io/badge/-SahilShah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-shah-50344224a/)](https://www.linkedin.com/in/sahil-shah-50344224a/)
-[![Gmail Badge](https://img.shields.io/badge/-plugsahuz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:plugsahuz@gmail.com)](mailto:plugsahuz@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](--------)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
-- I'm a Tech Worker👨‍💻
+-    I'm a Tech Worker👨‍💻
 
-💻 **Things I love**
-- Java ✍️
-- python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- javascript
-- Full Stack Development 🧐
-- Machine Learning 😬
-- MERN
+## About Me
+- 🎓 Final Year BSc Information and Technology student at VSIT Mumbai
+- 📚 Software developer
+- 🛠️ Passionate about AI/ML and programming enthusiast
+- 🤖 Fascinated by the doing programming
+- 💻 Function languages: Javascript,NodeJs,java,python and php
+- 🧛‍♀️ System design
 
-    
-🛠**Tech Stack**
+## Projects Ive Worked upon  
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+## Links
+- 👜 [Linkedin](https://www.linkedin.com/in/sahil-shah-50344224a/) Lets connect and Work Professionally
 
+  
+🚀 Connect with me on this collaborative and creative journey to build awesome projects together! Let's create something extraordinary! 💻🤝
