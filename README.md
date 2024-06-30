@@ -1,8 +1,8 @@
 ### Hi there, I am Sahil Shah 👋
 
-- 🎯 Portfolio website: [Portfolio](https://sahil-devportfolio.netlify.app/)
+- 💅 Portfolio website: [Portfolio](https://sahil-devportfolio.netlify.app/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
--    I'm a Tech Worker👨‍💻
+- 🧜‍♂️ I'm a Tech Worker👨‍💻
 
 ## About Me
 - 🎓 Final Year BSc Information and Technology student at VSIT Mumbai
