@@ -1,2 +1,1 @@
--  Blockchain Developer
 - 🧜‍♂️ I'm a Tech Worker👨‍💻
